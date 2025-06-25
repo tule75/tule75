@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Tu Le
 
-<!--
-**tule75/tule75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer with DevOps experience.
 
-Here are some ideas to get you started:
+**Languages & Frameworks**  
+- JavaScript (Node.js, Express, NestJS)  
+- Go (Gin)  
+- Python  
+- ASP.NET Core  
+- Laravel  
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases**  
+- MySQL, MongoDB, Redis, Cassandra, Elasticsearch
+
+**DevOps & Tools**  
+- Docker, Jenkins, Ubuntu, CentOS  
+- Kafka, RabbitMQ, Nginx, Git, GitHub Actions
+
+**Projects**  
+- **Chat App:** Built with NestJS, Cassandra, MongoDB, ELK Stack  
+- **Ticket Store (Backend):** Built with Gin, Kafka, MySQL
+
+**Links**  
+- [GitHub](https://github.com/tule75)  
+- [Facebook](https://www.facebook.com/tu050)
+
+---
+
+Minimalist. Reliable. Curious.  
+Always learning, always building.
