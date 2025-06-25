@@ -18,7 +18,6 @@ I'm a dedicated backend developer with strong DevOps skills, passionate about bu
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**  
 - ![C#](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) **ASP.NET Core**  
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) **Laravel**  
-- **SQL**
 
 **Databases**  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) **MySQL** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**  
