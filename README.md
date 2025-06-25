@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-I am a passionate backend developer with robust DevOps experience, specializing in designing scalable systems and resilient infrastructure. I thrive on building reliable, high-performance services and automating everything that can be automated.
+I'm a dedicated backend developer with strong DevOps skills, passionate about building scalable, maintainable systems and automating infrastructure. My expertise covers designing resilient APIs, distributed systems, and centralized services for modern applications.
 
 ---
 
@@ -18,6 +18,7 @@ I am a passionate backend developer with robust DevOps experience, specializing 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**  
 - ![C#](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) **ASP.NET Core**  
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) **Laravel**  
+- **SQL**
 
 **Databases**  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) **MySQL** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**  
@@ -28,30 +29,52 @@ I am a passionate backend developer with robust DevOps experience, specializing 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) **Docker**, ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins**  
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) **Ubuntu**, ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white) **CentOS**  
 - ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) **GitHub Actions**  
-- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) **Nginx**
+- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) **Nginx**, ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) **Ansible**
 
-**Messaging, Monitoring, & More**  
+**Messaging, Monitoring & Storage**  
 - ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) **Kafka**, ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) **RabbitMQ**  
+- ![MinIO](https://img.shields.io/badge/-MinIO-C82E1E?logo=minio&logoColor=white) **MinIO**, ![Amazon S3](https://img.shields.io/badge/-Amazon_S3-569A31?logo=amazon-aws&logoColor=white) **Amazon S3**  
 - ![ELK Stack](https://img.shields.io/badge/-ELK-005571?logo=elastic-stack&logoColor=white) **ELK (Elasticsearch, Logstash, Kibana)**  
 - ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white) **Prometheus**, ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) **Grafana**  
+
+---
+
+### ☁️ Infrastructure & Services
+
+- **Image Storage Service**  
+  A centralized, scalable image server for all projects, designed for multi-tenant and multi-bucket management.  
+  **Stack:**  
+  &nbsp;&nbsp;&nbsp;&nbsp;• NestJS (API & business logic)  
+  &nbsp;&nbsp;&nbsp;&nbsp;• MongoDB (metadata management)  
+  &nbsp;&nbsp;&nbsp;&nbsp;• MinIO & Amazon S3 (object storage, project-specific buckets)  
+
+  **Features:**  
+  - Multi-bucket architecture for project isolation  
+  - S3-compatible API: easily switch between MinIO (self-hosted) and AWS S3  
+  - Secure upload/download, signed URLs, and permission management  
+  - Easily integrated by other teams and projects  
+  - Scalable and maintainable for future growth
 
 ---
 
 ### 💡 Featured Projects
 
 - **Chat Application**  
-  Real-time chat backend using NestJS, Cassandra, MongoDB, Redis and ELK stack for monitoring, caching and search.
+  Real-time chat backend using NestJS, Cassandra, MongoDB, and ELK stack for monitoring and search.
 
 - **Ticket Store (Backend)**  
   Distributed ticketing platform built with Go (Gin), Kafka, and MySQL for high concurrency and reliability.
+
+- **Image Storage Service**  
+  Central image server for all projects, with scalable storage using NestJS, MongoDB, MinIO, and AWS S3.
 
 ---
 
 ### 🌱 Always Growing
 
-- Driven by curiosity and a love for elegant, maintainable code.
-- Advocate for automation, best practices, and continuous improvement.
-- Eager to tackle new technologies and challenging problems.
+- Passionate about automation, best practices & clean architecture  
+- Always learning new technologies and optimizing existing systems  
+- Committed to reliability, security, and performance
 
 ---
 
@@ -62,4 +85,4 @@ I am a passionate backend developer with robust DevOps experience, specializing 
 
 ---
 
-_Minimalist. Reliable. Scalable. Professional._
+_Minimalist • Reliable • Scalable • Professional_
