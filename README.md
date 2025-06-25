@@ -18,7 +18,6 @@ I am a passionate backend developer with robust DevOps experience, specializing 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) **Python**  
 - ![C#](https://img.shields.io/badge/-ASP.NET_Core-512BD4?logo=dotnet&logoColor=white) **ASP.NET Core**  
 - ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white) **Laravel**  
-- **SQL**
 
 **Databases**  
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) **MySQL** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**  
@@ -29,7 +28,7 @@ I am a passionate backend developer with robust DevOps experience, specializing 
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) **Docker**, ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white) **Jenkins**  
 - ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) **Ubuntu**, ![CentOS](https://img.shields.io/badge/-CentOS-262577?logo=centos&logoColor=white) **CentOS**  
 - ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=github-actions&logoColor=white) **GitHub Actions**  
-- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) **Nginx**, ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white) **Ansible**
+- ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) **Nginx**
 
 **Messaging, Monitoring, & More**  
 - ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white) **Kafka**, ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?logo=rabbitmq&logoColor=white) **RabbitMQ**  
