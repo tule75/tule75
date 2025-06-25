@@ -40,7 +40,7 @@ I am a passionate backend developer with robust DevOps experience, specializing 
 ### 💡 Featured Projects
 
 - **Chat Application**  
-  Real-time chat backend using NestJS, Cassandra, MongoDB, and ELK stack for monitoring and search.
+  Real-time chat backend using NestJS, Cassandra, MongoDB, Redis and ELK stack for monitoring, caching and search.
 
 - **Ticket Store (Backend)**  
   Distributed ticketing platform built with Go (Gin), Kafka, and MySQL for high concurrency and reliability.
