@@ -39,24 +39,6 @@ I'm a dedicated backend developer with strong DevOps skills, passionate about bu
 
 ---
 
-### ☁️ Infrastructure & Services
-
-- **Image Storage Service**  
-  A centralized, scalable image server for all projects, designed for multi-tenant and multi-bucket management.  
-  **Stack:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;• NestJS (API & business logic)  
-  &nbsp;&nbsp;&nbsp;&nbsp;• MongoDB (metadata management)  
-  &nbsp;&nbsp;&nbsp;&nbsp;• MinIO & Amazon S3 (object storage, project-specific buckets)  
-
-  **Features:**  
-  - Multi-bucket architecture for project isolation  
-  - S3-compatible API: easily switch between MinIO (self-hosted) and AWS S3  
-  - Secure upload/download, signed URLs, and permission management  
-  - Easily integrated by other teams and projects  
-  - Scalable and maintainable for future growth
-
----
-
 ### 💡 Featured Projects
 
 - **Chat Application**  
