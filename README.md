@@ -51,6 +51,31 @@ I'm a dedicated backend developer with strong DevOps skills, passionate about bu
 
 ---
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/tule75">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tule75&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/tule75">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tule75&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=tule75&theme=dark&border_radius=4&card_width=505" alt="GitHub Streak"/>
+  </a>
+</p>
+
+### 📈 &nbsp;Activity Graph
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=tule75&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+</p>
+
+---
+
 ### 🌱 Always Growing
 
 - Passionate about automation, best practices & clean architecture  
